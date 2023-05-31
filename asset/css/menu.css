@@ -7,7 +7,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0)), url(/asset/img/834083-too-restaurant-too-hotel-paris-photos-menu-plats.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgb(0, 0, 0)), url(https://github.com/tuan1507/BWD-Demo/blob/master/asset/img/Canoe-Interior-Evening-Vibes-5170.jpg?raw=true);
     background-size: cover;
     position: relative;
 }
