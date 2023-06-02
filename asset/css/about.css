@@ -124,14 +124,14 @@ nav img {
 }
 
 .body_welcome {
+    padding: 100px 0;
     width: 85%;
     margin: auto;
-    padding-bottom: 150px;
 }
 
 .body_welcome-text {
     text-align: center;
-    margin-top: 2%;
+    margin-top: 1.5%;
     display: flex;
     justify-content: space-between;
 }
